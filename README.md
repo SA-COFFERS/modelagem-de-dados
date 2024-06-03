@@ -1,4 +1,4 @@
 # modelagem-de-dados
 
-![alt text](./modelagem-de-dados-eptran.png)
+![alt text](./modelagem-de-dados.png)
 
